@@ -7,4 +7,4 @@ It integrates sensors such as a DS18B20 temperature probe, ultrasonic water leve
 The collected data is processed on the ESP32-S3 and displayed locally or through a web interface. 
 The system enables continuous monitoring of fish presence and water parameters. 
 It provides a cost-effective and intelligent solution for modern aquaculture and environmental management.
-https://github.com/afraseemeen/Aquaculture-and-Water-Quality-Monitoring-System/blob/bcdfa3bf0e038fa9c855ce391760f974cb05d97f/images.jpg
+ ![image alt](https://github.com/afraseemeen/Aquaculture-and-Water-Quality-Monitoring-System/blob/bcdfa3bf0e038fa9c855ce391760f974cb05d97f/images.jpg)
